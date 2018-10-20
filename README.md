@@ -1,16 +1,6 @@
 # brume
 
-I am not a designer so I cannot impress you with breathtaking Jekyll themes, but brume is something that just came to my mind and I had to build it. It is a clean and simple theme, which has an index page that lists all your blog posts divided by the year, a single post page and a layout for any additional pages you might need.
-
-This is how the "Home" page looks like.
-
-![Home](https://raw.githubusercontent.com/aigarsdz/brume/master/screenshots/home.png)
-
-And this is a single post.
-
-![Post](https://raw.githubusercontent.com/aigarsdz/brume/master/screenshots/post_1.png)
-
-![Post. More content examples.](https://raw.githubusercontent.com/aigarsdz/brume/master/screenshots/post_2.png)
+forked from aigarsdz/brume
 
 ## Usage
 
